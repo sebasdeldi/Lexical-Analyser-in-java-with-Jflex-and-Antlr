@@ -1,0 +1,5 @@
+let funcion1 = fn a => a + 10.2
+  in let funcion2 = fn a => 0x10 + a
+     in let funcion3 = fn a => fn b => if a > b  then funcion1 12.2
+                                                 else funcion1 23.4
+        in funcion1 10 > funcion3 12.12 234.34

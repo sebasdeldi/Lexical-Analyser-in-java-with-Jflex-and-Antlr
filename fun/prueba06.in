@@ -1,0 +1,3 @@
+fn x =>
+    if let a = 10.23 in a > 23.10
+       then True else False

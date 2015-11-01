@@ -1,0 +1,6 @@
+let a = 10
+ in let b = 11
+    in let c = 23
+       in let d = 44
+          in let e = 1
+             in a < b || c > d && d == e

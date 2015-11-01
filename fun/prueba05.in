@@ -1,0 +1,3 @@
+(let a = fn f => fn x => f x)
+   (fn x => x)
+   (fn y => y)

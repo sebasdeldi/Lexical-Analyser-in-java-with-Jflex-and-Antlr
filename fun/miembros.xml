@@ -1,0 +1,29 @@
+<grupo>
+  <nombre> cincoporfa </nombre>
+  <url> <!--no he hecho ci de nada --> </url>
+  
+  <miembros> 
+   
+    <miembro>
+      <nombre>Sebastián Delgado</nombre>
+      <codigo>2014271000010 </codigo>
+      <email> sdelgad4@eafit.edu.co </email>
+    </miembro>
+
+    <miembro>
+      <nombre>Cristian Franco</nombre>
+      <codigo>201320010010 </codigo>
+      <email> cfranc11@eafit.edu.co </email>
+    </miembro>
+
+  </miembros>
+
+
+  <proyecto>
+    <java>
+      <mainclases>
+	         <mainclass srcdir="src/main/java" package="co" clase= "MaincincoporfaLexer"/>
+      </mainclases>
+    </java>
+  </proyecto>
+</grupo>
